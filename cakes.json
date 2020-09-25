@@ -1,0 +1,233 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Cakes",
+      "description": "ButterScotch Cake",
+      "price": "550",
+      "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/30558_delicious-butterscotch-cake.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Cakes",
+      "description": "Chocolate Truffle Cake",
+      "price": "599",
+      "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_1000/31204_chocolate-truffle.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Cakes",
+      "description": "Pineapple Cake",
+      "price": "499",
+      "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/29992_yummy-pineapple-cake.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Cakes",
+      "description": "Black Forest Cake",
+      "price": "499",
+      "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/33705_blossoming-love-black-forest-cake.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Cakes",
+      "description": "red Velvet Cake",
+      "price": "799",
+      "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/36626_yummy-red-velvet-heart-shape-cake.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Cakes",
+      "description": "Vanila Cake",
+      "price": "599",
+      "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/31158_vanilla-cake.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Cakes",
+      "description": "Rasmalai Cake",
+      "price": "999",
+      "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/41905_super-rasmalai-cake.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Cakes",
+      "description": "Photo Cake",
+      "price": "999",
+      "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/29590_photo-cake.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Cakes",
+      "description": "Doll Cake",
+      "price": "999",
+      "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/33683_barbie-doll-cake.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Cakes",
+      "description": "Fruit Cake",
+      "price": "799",
+      "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/30074_yummy-fruit-cake.jpeg"
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 3,
+        "name": "Cakes",
+        "description": "Pineapple Cake",
+        "price": "499",
+        "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/29992_yummy-pineapple-cake.jpeg"
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Cakes",
+        "description": "Chocolate Truffle Cake",
+        "price": "599",
+        "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_1000/31204_chocolate-truffle.jpeg"
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Cakes",
+        "description": "ButterScotch Cake",
+        "price": "550",
+        "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/30558_delicious-butterscotch-cake.jpeg"
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Cakes",
+        "description": "ButterScotch Cake",
+        "price": "550",
+        "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/30558_delicious-butterscotch-cake.jpeg"
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Cakes",
+        "description": "ButterScotch Cake",
+        "price": "550",
+        "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/30558_delicious-butterscotch-cake.jpeg"
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Cakes",
+        "description": "ButterScotch Cake",
+        "price": "550",
+        "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/30558_delicious-butterscotch-cake.jpeg"
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Cakes",
+        "description": "ButterScotch Cake",
+        "price": "550",
+        "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/30558_delicious-butterscotch-cake.jpeg"
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Cakes",
+        "description": "Pineapple Cake",
+        "price": "499",
+        "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/29992_yummy-pineapple-cake.jpeg"
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Cakes",
+        "description": "Pineapple Cake",
+        "price": "499",
+        "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/29992_yummy-pineapple-cake.jpeg"
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Cakes",
+        "description": "ButterScotch Cake",
+        "price": "550",
+        "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/30558_delicious-butterscotch-cake.jpeg"
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Cakes",
+        "description": "ButterScotch Cake",
+        "price": "550",
+        "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/30558_delicious-butterscotch-cake.jpeg"
+      },
+      "id": 11
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Cakes",
+        "description": "Chocolate Truffle Cake",
+        "price": "599",
+        "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_1000/31204_chocolate-truffle.jpeg"
+      },
+      "id": 12
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Cakes",
+        "description": "Pineapple Cake",
+        "price": "499",
+        "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/29992_yummy-pineapple-cake.jpeg"
+      },
+      "id": 13
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Cakes",
+        "description": "Pineapple Cake",
+        "price": "499",
+        "imageUrl": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_400/29992_yummy-pineapple-cake.jpeg"
+      },
+      "id": 14
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
